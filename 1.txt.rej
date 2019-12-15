@@ -1,0 +1,8 @@
+diff a/1.txt b/1.txt	(rejected hunks)
+@@ -1 +0,3 @@
+-dffd
+\ No newline at end of file
++dffd
++2
++3
+\ No newline at end of file
